@@ -1,0 +1,3 @@
+Relacion entre entidades:
+Usuarios muchos roles
+Usuario-medico-Turnos
